@@ -1,0 +1,9 @@
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe.config
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.pdb
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Form1.resources
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Properties.Resources.resources
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+C:\Users\user_\source\repos\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
